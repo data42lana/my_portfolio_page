@@ -1,6 +1,3 @@
-## My Portfolio Page
----
-A portfolio of projects in Data Science, Machine Learning, Deep Learning, and Big Data Analysis.
 ### [Project 1. Image classification using neural networks - Rabbit or Squirrel](https://github.com/data42lana/learning_dl_tools)
 ---
 The project is two Jupyter notebooks created in Google Colaboratory. The objective of it is to gain practical skills in building and training CNNs using **TensorFlow/Keras** and **PyTorch** tools. It deals with a task of binary classification.
