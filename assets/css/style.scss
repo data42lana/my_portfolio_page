@@ -2,13 +2,18 @@
 ---
 
 @import  " {{site.theme}} " ;
+
 a {
-color: #a50163;
+	color: #a50163;
 }
 
 header li {
-  background: #a50163;
+	background: #a50163;
 	
-  -webkit-box-shadow: none;
-  box-shadow: none;
+        -webkit-box-shadow: none;
+        box-shadow: none;
+}
+
+header li:hover {
+	background: #63003b;
 }
