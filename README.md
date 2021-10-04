@@ -23,23 +23,3 @@ The project is a Jupyter notebook. The objective of it is to learn how machine l
 ### [Project 3. Big Data Analysis with PySpark - WDI](https://github.com/data42lana/learning_big_data)
 ---
 The project is a Jupyter notebook created in Google Colaboratory. The objective of it is to learn tools of the **PySpark SQL** module for working with big data on an example of analysis of World Development Indicators. The project used DataFrames and its methods, built-in functions, window functions, and converting SQL queries to DataFrame. 
-
-### [Project 4. Downloading images from Open Images using the FiftyOne tool](https://github.com/data42lana/download_images)
----
-The project is a Jupyter notebook created in Google Colaboratory. The objective of it is to download images of the required classes from **Open Images** and save them in the ImageClassificationDirectoryTree format using **FiftyOne** tool. The specified format looks like:
-```
-image_store_dir/
-    train/
-        class1_name/
-            image1.jpg
-            image2.jpg
-            ...
-        class2_name/
-            image3.jpg
-            ...
-    validation/
-        ...
-    test/
-        ...
-```
-*The "validation" and "test" directories are organized in the same way as the "train" directory.*
